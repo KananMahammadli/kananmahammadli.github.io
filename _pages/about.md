@@ -24,4 +24,4 @@ I have had the opportunity to work on academic research projects in machine lear
 
 These experiences have shaped my long-term goal: to advance the science behind adaptive and efficient perception systems capable of learning continually and transferring knowledge across tasks and domains.
 
-Feel free to explore my [Education](./education/), [Publications](./publications/), [Research Experience](./research/), [Projects](./projects/), and [CV](./cv/).
+Feel free to explore my [Education](./education/), [Publications](./publications/), [Research Experience](./research_experience/), [Projects](./projects/), and [CV](./cv/).

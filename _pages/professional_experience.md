@@ -19,6 +19,6 @@ author_profile: true
   * Developed a geospatial demand modeling strategy for car-sharing systems by partitioning cities into hexagonal grids, improving vehicle distribution and service availability.  
   * Built a surge pricing model for more than 80 kitchen locations, increasing monthly delivery revenue by 50% without harming user conversion.
 
-* **Data Scientist, [Affable AI](https://www.affable.ai/)** (Nov. 2021 – Apr. 2022)  
+* **Data Science Intern, [Affable AI](https://www.affable.ai/)** (Nov. 2021 – Apr. 2022)  
   * Improved the sentiment analysis pipeline, reducing batch prediction latency from 180 seconds to 23 seconds.  
   * Deployed a transformer-based brand classification model that improved influencer matching quality by 25%.

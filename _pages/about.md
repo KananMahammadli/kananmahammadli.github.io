@@ -25,7 +25,6 @@ My current work focuses on learning action representations from video or demonst
 I have previously worked on academic research projects in machine learning and computer vision under the guidance of:
 - [Prof. Seyda Ertekin](https://avesis.metu.edu.tr/sertekin) at METU, on large language model-based hyperparameter optimization  
 - [Prof. Ioannis Kakadiaris](https://uh.edu/cbl/people/about-director.php) at the University of Houston, on computer vision and representation learning  
-- [Prof. Yukun Hu](https://profiles.ucl.ac.uk/70891) at University College London, on physics-informed deep learning  
 
 Before starting my PhD, I also worked in industry on applied machine learning problems spanning optimization, NLP, computer vision, and decision-support systems. These experiences continue to shape how I think about building learning systems that are both practically useful and scientifically grounded.
 

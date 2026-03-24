@@ -7,7 +7,7 @@ author_profile: true
 
 # Industry Experience
 
-* **Senior Data and Optimization Scientist, [SmartKiwi AI](https://www.smartkiwi.ai/about)** (Nov. 2023 – Present)  
+* **Senior Data and Optimization Scientist, [SmartKiwi AI](https://www.smartkiwi.ai/about)** (Nov. 2023 – Jul. 2025)  
   * Built an end-to-end decision-support platform for demand forecasting and inventory optimization, enabling tailored forecasts and operational decision support through an interactive interface.  
   * Developed and deployed a high-frequency passenger forecasting and optimization system at Istanbul Grand Airport for lane and staff allocation, achieving 92% accuracy and reducing wait times by 25–35%.
 

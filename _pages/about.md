@@ -28,4 +28,4 @@ I have previously worked on academic research projects in machine learning and c
 
 Before starting my PhD, I also worked in industry on applied machine learning problems spanning optimization, NLP, computer vision, and decision-support systems. These experiences continue to shape how I think about building learning systems that are both practically useful and scientifically grounded.
 
-Feel free to explore my [Education](./education/), [Publications](./publications/), [Research Experience](./research_experience/), [Industry Experience](./industry_experience/), and [CV](./cv/).
+Feel free to explore my [Education](./education/), [Publications](./publications/), [Research Experience](./research_experience/), [Professional Experience](./professional_experience/), and [CV](./cv/).

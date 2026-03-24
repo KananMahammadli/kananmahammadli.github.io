@@ -5,7 +5,7 @@ permalink: /professional_experience/
 author_profile: true
 ---
 
-# Industry Experience
+# Professional Experience
 
 * **Senior Data and Optimization Scientist, [SmartKiwi AI](https://www.smartkiwi.ai/about)** (Nov. 2023 – Jul. 2025)  
   * Built an end-to-end decision-support platform for demand forecasting and inventory optimization, enabling tailored forecasts and operational decision support through an interactive interface.  

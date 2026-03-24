@@ -5,17 +5,17 @@ permalink: /research_experience/
 author_profile: true
 ---
 
-# Academic Research Experience
+# Research Experience
 
-* **Undergraduate Researcher, [AI Lab, METU BILTIR Center](https://biltir.metu.edu.tr/)** (July 2023 – June 2025)  
-  * Supervisor: [Prof. Seyda Ertekin](https://avesis.metu.edu.tr/sertekin)
-  * Developed SLLMBO framework for LLM-guided hyperparameter optimization.
-  * Worked on computer vision models (detection, segmentation).
+* **PhD Student Researcher, [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)** (Sep. 2025 – Present)  
+  * Working on robot learning at the intersection of computer vision, representation learning, and action generation.  
+  * Broadly interested in scalable learning for robotic intelligence and embodied systems.  
+  * Current work studies action representations learned from video or demonstrations and their use in robot manipulation.
 
-* **Deep Learning Research Intern, [University College London](https://www.ucl.ac.uk/)** (Oct. 2022 – Nov. 2022)  
-  * Supervisor: [Prof. Yukun Hu](https://profiles.ucl.ac.uk/70891)
-  * Worked on physics-informed neural networks project.
+* **Undergraduate Student Researcher, [AI Lab, METU BILTIR Center](https://biltir.metu.edu.tr/)** (Jul. 2024 – Jun. 2025)  
+  * Supervisor: [Prof. Seyda Ertekin](https://avesis.metu.edu.tr/sertekin)  
+  * Conducted research on automated and efficient hyperparameter optimization using large language models, leading to the SLLMBO framework.
 
-* **Computer Vision Research Intern, [Computational Biomedicine Lab, University of Houston](https://uh.edu/cbl/)** (July 2022 – Sep. 2022)  
-  * Supervisor: [Prof. Ioannis Kakadiaris](https://uh.edu/cbl/people/about-director.php)
-  * Worked on computer vision tasks involving object detection and representation learning, focusing on optimizing multi-scale models and similarity-based analysis.
+* **Computer Vision Research Intern, [Computational Biomedicine Lab, University of Houston](https://uh.edu/cbl/)** (Jul. 2022 – Sep. 2022)  
+  * Supervisor: [Prof. Ioannis Kakadiaris](https://uh.edu/cbl/people/about-director.php)  
+  * Worked on computer vision problems including object detection from UAV imagery and representation-based similarity analysis.

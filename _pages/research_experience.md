@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 # Research Experience
-
-* **PhD Student Researcher, [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)** (Sep. 2025 – Present)  
-  * Working on robot learning at the intersection of computer vision, representation learning, and action generation.  
-  * Broadly interested in scalable learning for robotic intelligence and embodied systems.  
-  * Current work studies action representations learned from video or demonstrations and their use in robot manipulation.
+* **PhD Student Researcher, [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)** (Sep. 2025 – Jul. 2026) 
+  * Completed two Research Immersion Labs under the supervision of [Prof. Jan Eric Lenssen](https://janericlenssen.github.io/) and [Dr. Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/).
+  * Investigated self-supervised continuous latent-action representations learned from human videos and their use in downstream robot action generation.
+  * Explored whether visual-transition representations capture the task-relevant information required for sequential decisions, combining representation learning with diffusion- and flow-matching-based action generation.
+  * This work motivated my broader interest in representation sufficiency, long-horizon decision-making, compositional generalization, and failure analysis in learned autonomous systems.
 
 * **Undergraduate Student Researcher, [AI Lab, METU BILTIR Center](https://biltir.metu.edu.tr/)** (Jul. 2024 – Jun. 2025)  
   * Supervisor: [Prof. Seyda Ertekin](https://avesis.metu.edu.tr/sertekin)  

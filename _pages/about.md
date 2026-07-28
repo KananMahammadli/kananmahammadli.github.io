@@ -1,4 +1,3 @@
-```markdown
 ---
 permalink: /
 title: "About Me"
@@ -33,6 +32,5 @@ I have previously worked on academic research projects in machine learning and c
 - [Prof. Ioannis Kakadiaris](https://uh.edu/cbl/people/about-director.php) at the University of Houston, on computer vision and representation learning
 
 Before starting my PhD, I also worked in industry on applied machine learning problems spanning optimization, NLP, computer vision, forecasting, and decision-support systems. These experiences continue to shape my interest in learning systems that are both scientifically well understood and practically useful.
-```
 
 Feel free to explore my [Education](./education/), [Research Experience](./research_experience/), [Professional Experience](./professional_experience/), [Publications](./publications/), and [CV](./cv/).

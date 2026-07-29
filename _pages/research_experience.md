@@ -7,7 +7,7 @@ author_profile: true
 
 # Research Experience
 
-* **PhD Student Researcher, [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)** (Oct. 2025 – Jul. 2026)
+* **Doctoral Researcher, [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)** (Oct. 2025 – Jul. 2026)
   * Completed two Research Immersion Labs under the supervision of [Prof. Jan Eric Lenssen](https://janericlenssen.github.io/) and [Dr. Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/).
   * Investigated self-supervised continuous latent-action representations learned from human videos and their potential use in downstream robot action generation.
   * Studied whether compact representations of visual transitions preserve the task-relevant information required for sequential decisions.

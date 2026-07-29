@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student in Computer Science at [Saarland University](https://www.uni-saarland.de/en/home.html) as part of the [CS@Max Planck Doctoral Program](https://www.cis.mpg.de/csmaxplanck-overview/), and I conduct my research at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home). I completed my B.Sc. in Mathematics, with a minor in Statistics, at [Middle East Technical University (METU)](https://www.metu.edu.tr/) (METU), where I graduated with High Honors.
+Hi! I am a PhD student in Computer Science at [Saarland University](https://www.uni-saarland.de/en/home.html) as part of the [CS@Max Planck Doctoral Program](https://www.cis.mpg.de/csmaxplanck-overview/), and I conduct my research at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home). I completed my B.Sc. in Mathematics, with a minor in Statistics, at [Middle East Technical University (METU)](https://www.metu.edu.tr/), where I graduated with High Honors.
 
 My research examines how learned representations support reasoning and sequential decision-making, and why model performance degrades when tasks require long-horizon behavior, composition of previously learned capabilities, or generalization beyond the training distribution. I am interested in studying these questions across foundation models, autonomous agents, and embodied systems.
 
